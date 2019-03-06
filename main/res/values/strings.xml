@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirPiano</string>
+    <string name="hello_world">Bluetooth Address</string>
+</resources>
